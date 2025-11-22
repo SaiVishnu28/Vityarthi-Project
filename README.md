@@ -145,7 +145,11 @@
         </ul>
         <hr>
         <h2 id="output">OUTPUT FOR THE CODE </h2>
-        <img
+        <img width="1010" height="985" alt="Screenshot 2025-11-22 183355" src="https://github.com/user-attachments/assets/c6a9d347-2139-4a66-ae5d-ab5309fb68b3" />
+        <hr>
+        <h2>LICENSE</h2>
+        <p>This project is open source and available under the MIT License.</p>
+        <hr>
         <p align="center">
             <strong>HAPPY BOOKING PEOPLE!!</strong>
         </p>
