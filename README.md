@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/VIT_Bhopal_logo.svg/250px-VIT_Bhopal_logo.svg.png" alt="logo" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/VIT_Bhopal_logo.svg/2500px-VIT_Bhopal_logo.svg.png" alt="logo" width="400">
 </div>
+<h2 align="center"><strong>COURSE 1021 :</strong> INTRODUCTION TO PROBLEM AND PROGRAMMING</h2>
+<h2 align="center"><strong>SLOT :</strong> A11,A12,A13</h2>
+<h2 align="center"><strong>FACULTY NAME :</strong> PAVITHRA</h2>
+<h2 align="center"><strong>STUDENT NAME :</strong> SAI VISHNU</h2>
+<h2 align="center"><strong>STUDENT REGISTRATION NO :</strong> 25MEI10017</h2>
+<h2 align="center"><strong>STUDENT COURSE :</strong> MTECH-INTEGRATED(CYBER SECURITY)</h2>
+<h2 align="center"><strong>STUDENT SCHOOL :</strong> SCAI</h2>
+<hr>
 <h1 align="center">VITYARTHI PROJECT</h1>
 <h2 align="center">MOVIE TICKET BOOKING</h2>
 <p align="center">  <strong>A Python-based movie ticket booking system with seat selection</strong></p>
@@ -67,7 +75,7 @@
             <li><strong>Enter Tickets:</strong> Specify number of tickets</li>
             <li><strong>Choose Seats:</strong> Enter seat codes (e.g., A5, B3)</li>
             <li><strong>Provide Details:</strong> Enter name and phone number</li>
-            <li><strong>Confirm:</strong> Review and confirm booking (y/n)</li>
+            <li><strong>Confirm:</strong> Review and confirm booking (yes/no)</li>
         </ol>
         <h3>Example Booking:</h3>
         <pre><code>
@@ -80,7 +88,31 @@
                    Enter seat: B5
                    Name: Sai
                    Phone: 1234567890
-                   Confirm (y/n): y</code></pre>
+                   Confirm (yes/no): yes</code></pre>
+        <hr>  
+        <h2 id="pricing">PRICING DETAILS</h2>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Price per Ticket</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Regular</td>
+                <td>₹200</td>
+                <td>Standard seating</td>
+            </tr>
+            <tr>
+                <td>Premium</td>
+                <td>₹350</td>
+                <td>Enhanced comfort</td>
+            </tr>
+            <tr>
+                <td>VIP</td>
+                <td>₹500</td>
+                <td>Luxury experience</td>
+            </tr>
+        </table>
         <hr>
         <h2 id="code-structure">CODE STRUCTURE</h2>
         <h3>MAIN FUNCTIONS:</h3>
@@ -112,30 +144,8 @@
             <li><strong>C:</strong> Seat columns </li>
         </ul>
         <hr>
-        <h2 id="pricing">PRICING DETAILS</h2>
-        <table>
-            <tr>
-                <th>Category</th>
-                <th>Price per Ticket</th>
-                <th>Description</th>
-            </tr>
-            <tr>
-                <td>Regular</td>
-                <td>₹200</td>
-                <td>Standard seating</td>
-            </tr>
-            <tr>
-                <td>Premium</td>
-                <td>₹350</td>
-                <td>Enhanced comfort</td>
-            </tr>
-            <tr>
-                <td>VIP</td>
-                <td>₹500</td>
-                <td>Luxury experience</td>
-            </tr>
-        </table>
-        <hr>
+        <h2 id="output">OUTPUT FOR THE CODE </h2>
+        <img
         <p align="center">
             <strong>HAPPY BOOKING PEOPLE!!</strong>
         </p>
