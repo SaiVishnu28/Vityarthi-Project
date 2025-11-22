@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 #movie names
 M = ["Wicked", "Gladiator II", "Titanic", "Twilight", "Wolf Of Wall Street"] 
 
-#timings\
+#timings
 T = ["10:00 AM", "1:00 PM", "4:00 PM", "7:00 PM", "10:00 PM"]
 #seat types
 P = { 
@@ -126,9 +126,9 @@ print(f"Seats: {', '.join(sel_seats)}")
 print(f"Total: {final_price}")
 
 # Confirmation
-ok = input("\nConfirm (y/n): ").lower()
+ok = input("\nConfirm (yes/no): ").lower()
 
-if ok == "y":
+if ok == "yes":
     # Save booking
     B.append({
         'movie': sel_m,
